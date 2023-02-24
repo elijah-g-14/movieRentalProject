@@ -1,3 +1,4 @@
+use cinf201_egoodman;
 -- Insert data into the Directors table
 INSERT INTO movies_Directors (director_id, first_name, last_name, date_of_birth)
 VALUES
@@ -72,10 +73,10 @@ VALUES
 (5, 5, '2022-02-15', '2022-02-22', 6.99);
 
 -- Insert data into Rentals_history table
-INSERT INTO movies_Rentals_history (rental_id, rental_date, inventory_id, customer_id, return_date, staff_id, last_update)
+INSERT INTO movies_Rentals_history (rental_id, return_date, late_fee)
 VALUES
-(1, '2022-01-01 08:00:00', 1, 1, '2022-01-03 08:00:00', 1, NOW()),
-(2, '2022-01-05 10:00:00', 2, 2, '2022-01-07 10:00:00', 2, NOW()),
-(3, '2022-01-10 12:00:00', 3, 3, '2022-01-12 12:00:00', 1, NOW()),
-(4, '2022-01-15 14:00:00', 4, 4, '2022-01-17 14:00:00', 2, NOW()),
-(5, '2022-01-20 16:00:00', 5, 5, '2022-01-22 16:00:00', 1, NOW());
+(1, '2022-01-03 08:00:00', 1),
+(2, '2022-01-07 10:00:00', 1),
+(3, '2022-01-12 12:00:00', 1),
+(4, '2022-01-17 14:00:00', 1),
+(5, '2022-01-22 16:00:00', 1);
