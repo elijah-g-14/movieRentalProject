@@ -81,12 +81,14 @@ CREATE TABLE movies_Movies (
 
 CREATE TABLE movies_Rentals (
   rental_id INT NOT NULL AUTO_INCREMENT,
+  employee_id INT NOT NULL,
   customer_id INT NOT NULL,
   movie_id INT NOT NULL,
   rental_start_date DATE NOT NULL,
   rental_end_date DATE NOT NULL,
   rental_fee DECIMAL(5,2) NOT NULL,
   PRIMARY KEY (rental_id),
+  FOREIGN KEY (employee_id) REFERENCES movies_Employees(employee_id),
   FOREIGN KEY (customer_id) REFERENCES movies_Customers(customer_id),
   FOREIGN KEY (movie_id) REFERENCES movies_Movies(movie_id)
 );
