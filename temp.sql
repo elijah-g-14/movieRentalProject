@@ -1,0 +1,13 @@
+INSERT INTO movies_Movies (title, release_date, director_id, actor_id, genre_id, running_time, rating_id, synopsis)
+VALUES
+('12 Angry Men', '1957-04-10', 3, 10, 3, 96, 1, 'A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.'),
+('2001: A Space Odyssey', '1968-04-03', 4, 11, 5, 149, 2, 'Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world\'s most advanced supercomputer.'),
+('A Clockwork Orange', '1971-12-19', 4, 12, 4, 136, 4, 'In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn\'t go as planned.'),
+('Alien', '1979-05-25', 5, 13, 5, 117, 4, 'After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.'),
+('Amélie', '2001-04-25', 6, 14, 3, 122, 1, 'Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.'),
+('American History X', '1998-10-30', 7, 15, 3, 119, 4, 'A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.'),
+('Avengers: Infinity War', '2018-04-27', 8, 16, 1, 149, 3, 'The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.'),
+('Back to the Future', '1985-07-03', 9, 17, 2, 116, 1, 'Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.'),
+('Black Panther', '2018-02-16', 10, 18, 1, 134, 3, 'T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country\'s past.'),
+('Blade Runner', '1982-06-25', 11, 19, 5, 117, 4, 'A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.'),
+('Braveheart', '1995-05-24', 12, 20, 3, 178, 4, 'When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.');
