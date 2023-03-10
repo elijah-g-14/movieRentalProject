@@ -174,11 +174,32 @@ VALUES
 ('Quincy', 'Kim', '1515 Birch St, Anytown, USA', '555-555-5555', 'quincy.kim@email.com'),
 ('Rose', 'Choi', '1616 Cedar St, Anytown, USA', '555-555-5555', 'rose.choi@email.com'),
 ('Samuel', 'Chen', '1717 Elm St, Anytown, USA', '555-555-5555', 'samuel.chen@email.com'),
-('Tara', 'Wong', '1818 Spruce St, Anytown, USA', '555-555-5555', 'tara.wong@email.com');
+('Tara', 'Wong', '1818 Spruce St, Anytown, USA', '555-555-5555', 'tara.wong@email.com'),
+('Uma', 'Patel', '1212 Oak St, Anytown, USA', '555-555-5555', 'uma.patel@email.com'),
+('Victor', 'Nguyen', '2323 Pine St, Anytown, USA', '555-555-5555', 'victor.nguyen@email.com'),
+('Wendy', 'Gonzalez', '3434 Maple St, Anytown, USA', '555-555-5555', 'wendy.gonzalez@email.com'),
+('Xavier', 'Rivera', '4545 Cedar St, Anytown, USA', '555-555-5555', 'xavier.rivera@email.com'),
+('Yvonne', 'Baker', '5656 Elm St, Anytown, USA', '555-555-5555', 'yvonne.baker@email.com'),
+('Zachary', 'Adams', '6767 Spruce St, Anytown, USA', '555-555-5555', 'zachary.adams@email.com'),
+('Avery', 'Thomas', '7878 Oak St, Anytown, USA', '555-555-5555', 'avery.thomas@email.com'),
+('Brianna', 'Clark', '8989 Pine St, Anytown, USA', '555-555-5555', 'brianna.clark@email.com'),
+('Cameron', 'Walker', '1010 Maple St, Anytown, USA', '555-555-5555', 'cameron.walker@email.com'),
+('Diana', 'Gutierrez', '1111 Cedar St, Anytown, USA', '555-555-5555', 'diana.gutierrez@email.com'),
+('Ethan', 'Gomez', '1212 Elm St, Anytown, USA', '555-555-5555', 'ethan.gomez@email.com'),
+('Faith', 'Parker', '1313 Spruce St, Anytown, USA', '555-555-5555', 'faith.parker@email.com'),
+('Gabriel', 'Carter', '1414 Oak St, Anytown, USA', '555-555-5555', 'gabriel.carter@email.com'),
+('Hannah', 'Mitchell', '1515 Pine St, Anytown, USA', '555-555-5555', 'hannah.mitchell@email.com'),
+('Isaac', 'Perez', '1616 Maple St, Anytown, USA', '555-555-5555', 'isaac.perez@email.com'),
+('Jasmine', 'Roberts', '1717 Cedar St, Anytown, USA', '555-555-5555', 'jasmine.roberts@email.com'),
+('Kevin', 'Turner', '1818 Elm St, Anytown, USA', '555-555-5555', 'kevin.turner@email.com'),
+('Lila', 'Phillips', '1919 Spruce St, Anytown, USA', '555-555-5555', 'lila.phillips@email.com'),
+('Miles', 'Campbell', '2020 Oak St, Anytown, USA', '555-555-5555', 'miles.campbell@email.com'),
+('Nina', 'Evans', '2121 Pine St, Anytown, USA', '555-555-5555', 'nina.evans@email.com');
 
 -- Insert data into Ratings table
 INSERT INTO movies_Ratings (rating_id, rating_value, rating_description)
 VALUES
+(0, 'NR', 'Not Rated'),
 (1, 'G', 'General Audiences'),
 (2, 'PG', 'Parental Guidance Suggested'),
 (3, 'PG-13', 'Parents Strongly Cautioned'),

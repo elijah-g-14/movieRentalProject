@@ -1,0 +1,154 @@
+Actorslist
+Index 1: Al Pacino
+Index 2: Alexandre Rodrigues
+Index 3: Audrey Tautou
+Index 4: Ben Burtt
+Index 5: Brad Pitt
+Index 6: Bruce Willis
+Index 7: Chadwick Boseman
+Index 8: Charlie Chaplin
+Index 9: Clark Gable
+Index 10: Clint Eastwood
+Index 11: Colin Firth
+Index 12: Daniel Day-Lewis
+Index 13: Don Cheadle
+Index 14: Ed Asner
+Index 15: Edward Norton
+Index 16: Elijah Wood
+Index 17: Ellen Burstyn
+Index 18: Emma Stone
+Index 19: Fionn Whitehead
+Index 20: Frances McDormand
+Index 21: François Cluzet
+Index 22: Graham Chapman
+Index 23: Harrison Ford
+Index 24: Harvey Keitel
+Index 25: Heath Ledger
+Index 26: Henry Fonda
+Index 27: Hilary Swank
+Index 28: Hugh Jackman
+Index 29: Igourney Weaver
+Index 30: Ingrid Thulin
+Index 31: Ivana Baquero
+Index 32: Jack Nicholson
+Index 33: James Stewart
+Index 34: Jamie Foxx
+Index 35: Jean Reno
+Index 36: Jesse Eisenberg
+Index 37: Jim Carrey
+Index 38: Joaquin Phoenix
+Index 39: Jodie Foster
+Index 40: John Travolta
+Index 41: Josh Brolin
+Index 42: Keanu Reeves
+Index 43: Keir Dullea
+Index 44: Kevin Spacey
+Index 45: Kim Min-hee
+Index 46: Kurt Russell
+Index 47: Leonardo DiCaprio
+Index 48: Liam Neeson
+Index 49: Malcolm McDowell
+Index 50: Matthew Broderick
+Index 51: Matthew McConaughey
+Index 52: Matthew Modine
+Index 53: Mel Gibson
+Index 54: Michael J. Fox
+Index 55: Miles Teller
+Index 56: Paul Newman
+Index 57: Ralph Fiennes
+Index 58: Ray Liotta
+Index 59: River Phoenix
+Index 60: Robert Downey Jr.
+Index 61: Roberto Benigni
+Index 62: Roy Scheider
+Index 63: Russell Crowe
+Index 64: Ryan Gosling
+Index 65: Sam Neill
+Index 66: Samuel L. Jackson
+Index 67: Song Kang-ho
+Index 68: Tim Robbins
+Index 69: Tom Hanks
+Index 70: Tom Hardy
+Index 71: Trevante Rhodes
+Index 72: Ulrich Mühe
+Index 73: Uma Thurman
+Index 74: Viggo Mortensen
+Index 75: Vincent Cassel
+Index 76: Willem Dafoe
+Index 77: Yalitza Aparicio
+
+Directorslist
+Index 1: Akira Kurosawa,
+Index 2: Alejandro González Iñárritu,
+Index 3: Alfonso Cuarón,
+Index 4: Ang Lee,
+Index 5: Anthony Russo,
+Index 6: Barry Jenkins,
+Index 7: Bong Joon-ho,
+Index 8: Charlie Chaplin,
+Index 9: Christopher Nolan,
+Index 10: Clint Eastwood,
+Index 11: Damien Chazelle,
+Index 12: David Fincher,
+Index 13: David Lean,
+Index 14: Fernando Meirelles,
+Index 15: Florian Henckel von Donnersmarck,
+Index 16: Francis Ford Coppola,
+Index 17: Frank Capra,
+Index 18: Frank Darabont,
+Index 19: George Miller,
+Index 20: Guillermo del Toro,
+Index 21: Hayao Miyazaki,
+Index 22: Ingmar Bergman,
+Index 23: Irvin Kershner,
+Index 24: James Cameron,
+Index 25: Jean-Pierre Jeunet,
+Index 26: Joel Coen,
+Index 27: John McTiernan,
+Index 28: Lana Wachowski,
+Index 29: Luc Besson,
+Index 30: Martin Scorsese,
+Index 31: Mathieu Kassovitz,
+Index 32: Mel Gibson,
+Index 33: Michel Hazanavicius,
+Index 34: Milos Forman,
+Index 35: Nick Cassavetes,
+Index 36: Olivier Nakache,
+Index 37: Park Chan-wook,
+Index 38: Peter Farrelly,
+Index 39: Peter Jackson,
+Index 40: Quentin Tarantino,
+Index 41: Ridley Scott,
+Index 42: Robert Zemeckis,
+Index 43: Roberto Benigni,
+Index 44: Roger Allers,
+Index 45: Ryan Coogler,
+Index 46: Sean Baker,
+Index 47: Sergio Leone,
+Index 48: Sidney Lumet,
+Index 49: Stanley Kubrick,
+Index 50: Steven Spielberg,
+Index 51: Tate Taylor,
+Index 52: Terry George,
+Index 53: Terry Gilliam, Terry Jones,
+Index 54: Todd Phillips,
+Index 55: Tom Hooper,
+Index 56: Tony Kaye,
+Index 57: Victor Fleming,
+Index 58: Wes Anderson,
+Index 59: William Friedkin
+
+Genrelist
+(1, 'Action'),
+(2, 'Comedy'),
+(3, 'Drama'),
+(4, 'Horror'),
+(5, 'Science Fiction')
+
+Ratinglist
+(0, 'NR', 'Not Rated'),
+(1, 'G', 'General Audiences'),
+(2, 'PG', 'Parental Guidance Suggested'),
+(3, 'PG-13', 'Parents Strongly Cautioned'),
+(4, 'R', 'Restricted'),
+(5, 'NC-17', 'Adults Only')
