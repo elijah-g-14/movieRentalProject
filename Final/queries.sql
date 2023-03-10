@@ -1,3 +1,4 @@
+use cinf201_egoodman;
 --Retrieve the title, release date, actor name, and rating value for all movies with a specific genre:
 SELECT m.title, m.release_date, CONCAT(a.first_name, ' ', a.last_name) AS actor_name, r.rating_value
 FROM movies_Movies m
